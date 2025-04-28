@@ -1,1 +1,1 @@
-### This repository contains a collection of Power BI projects developed for training and learning purposes. Each project is designed to practice key Power BI skills such as data cleaning, data modeling, DAX calculations, and creating interactive dashboards and reports.
+ This repository contains a collection of Power BI projects developed for training and learning purposes. Each project is designed to practice key Power BI skills such as data cleaning, data modeling, DAX calculations, and creating interactive dashboards and reports.
